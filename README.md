@@ -21,4 +21,4 @@ Built with [Streamlit](https://streamlit.io) and Hugging Face Transformers.
 
 ## 📸 Screenshot
 
-![App Screenshot](output.jpg)
+![App Screenshot](output.png)
