@@ -18,3 +18,7 @@ Built with [Streamlit](https://streamlit.io) and Hugging Face Transformers.
    ```bash
    git clone https://github.com/yourusername/nlpproject.git
    cd nlpproject
+
+## 📸 Screenshot
+
+![App Screenshot](output.jpg)
